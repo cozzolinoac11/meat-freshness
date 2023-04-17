@@ -1,4 +1,4 @@
-# meat-freshness
+# Meat freshness
 
 ## About Dataset - Meat Freshness Dataset
 ### Data Description
