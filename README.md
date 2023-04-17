@@ -1,8 +1,7 @@
 # meat-freshness
 
-### About Dataset - Meat Freshness Dataset
-
-# Data Description
+## About Dataset - Meat Freshness Dataset
+### Data Description
 It includes 2266 images.
 Color-Marbling-Freshness are annotated in Multi-Class Classification format.
 
